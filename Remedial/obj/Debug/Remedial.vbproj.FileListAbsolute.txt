@@ -1,0 +1,12 @@
+D:\CODING\Remedial\Remedial\bin\Debug\Remedial.exe.config
+D:\CODING\Remedial\Remedial\bin\Debug\Remedial.exe
+D:\CODING\Remedial\Remedial\bin\Debug\Remedial.pdb
+D:\CODING\Remedial\Remedial\bin\Debug\Remedial.xml
+D:\CODING\Remedial\Remedial\obj\Debug\Remedial.vbprojResolveAssemblyReference.cache
+D:\CODING\Remedial\Remedial\obj\Debug\Remedial.Form1.resources
+D:\CODING\Remedial\Remedial\obj\Debug\Remedial.Resources.resources
+D:\CODING\Remedial\Remedial\obj\Debug\Remedial.vbproj.GenerateResource.Cache
+D:\CODING\Remedial\Remedial\obj\Debug\Remedial.exe
+D:\CODING\Remedial\Remedial\obj\Debug\Remedial.xml
+D:\CODING\Remedial\Remedial\obj\Debug\Remedial.pdb
+D:\CODING\Remedial\Remedial\obj\Debug\Remedial.Form2.resources
